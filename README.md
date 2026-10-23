@@ -3,24 +3,26 @@
   <img src="assets/header-light.svg" width="100%" alt="Harel Aronovich - Turning ideas into working software, with AI agents as my team. Israel, Software Engineering, Braude College.">
 </picture>
 
-I decide what to build and why, the agents help me ship it fast, and I make sure it is tested, measured and actually used.
+<br>
+
+**I decide what to build and why. Agents help me ship it fast. I make sure it actually works.**
 
 ## How I work with agents
 
-I'm not here to prompt and hope. I'm curious about how agents really work, and I treat everything around the model as part of the engineering:
+I'm not here to prompt and hope. I treat everything around the model as part of the engineering:
 
-- **Harness and context** - clear project instructions, specs and runbooks, so an agent starts every session knowing the codebase, its rules and what "done" means.
-- **Skills** - turning work I repeat into reusable skills, so agents do it the same way every time instead of rediscovering it.
-- **MCP** - connecting agents to the real tools a project lives in, not just the editor.
-- **Planning before building** - shaping the idea and the plan first, then splitting the work so agents and subagents can run it in parallel.
-- **Verification over vibes** - tests, end-to-end runs, logs and real measurements before anything counts as done.
-- **Under the hood** - understanding the agent loop itself: tool calling, context windows, and where agents go wrong.
+- **Harness and context** - instructions, specs and runbooks, so every session starts knowing the rules.
+- **Skills** - work I repeat becomes a skill, done the same way every time.
+- **MCP** - agents connected to the real tools a project lives in.
+- **Planning before building** - shape the idea first, then split the work across subagents.
+- **Verification over vibes** - nothing counts as done until it's tested and measured.
+- **Under the hood** - how the agent loop works: tool calls, context, and where agents go wrong.
 
 ## Featured
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
 ### [AirClicker](https://github.com/Harelzx/airclicker)
 
@@ -31,14 +33,14 @@ Built in 15 minutes on the morning of a talk, then tuned on 159 logged flicks.
 `Swift` `CoreMotion` `macOS`
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="middle" align="center">
 
-<a href="https://github.com/Harelzx/airclicker"><img src="https://raw.githubusercontent.com/Harelzx/airclicker/main/docs/demo.gif" alt="Flicking an AirPod changes the slide"></a>
+<a href="https://github.com/Harelzx/airclicker"><img src="https://raw.githubusercontent.com/Harelzx/airclicker/main/docs/demo.gif" width="280" alt="Flicking an AirPod changes the slide"></a>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
 ### [Makom Lizkor](https://makomlizkor.org)
 
@@ -49,9 +51,9 @@ A live site with moderated public submissions, rate limiting, end-to-end tests a
 `TypeScript` `React` `Cloudflare Workers`
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="middle" align="center">
 
-<a href="https://makomlizkor.org"><img src="https://makomlizkor.org/og.png" alt="Makom Lizkor"></a>
+<a href="https://makomlizkor.org"><img src="https://makomlizkor.org/og.png" width="320" alt="Makom Lizkor"></a>
 
 </td>
 </tr>
@@ -59,11 +61,11 @@ A live site with moderated public submissions, rate limiting, end-to-end tests a
 
 ## What I build with
 
-**Agents and tooling**
+### Agents and tooling
 
 <a href="https://claude.com/claude-code"><img src="https://img.shields.io/badge/Claude_Code-D97757?logo=claude&logoColor=white&style=for-the-badge" alt="Claude Code"></a> <img src="https://img.shields.io/badge/MCP-3F3F46?logo=modelcontextprotocol&logoColor=white&style=for-the-badge" alt="MCP">
 
-**Languages and platforms**
+### Languages and platforms
 
 <img src="https://skillicons.dev/icons?i=py,ts,react,nextjs,swift,kotlin,cloudflare,supabase&perline=8" alt="Python, TypeScript, React, Next.js, Swift, Kotlin, Cloudflare, Supabase">
 
