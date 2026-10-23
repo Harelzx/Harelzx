@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="236" viewBox="0 0 830 236" role="img" aria-labelledby="t d">
+<title id="t">Harel Aronovich</title><desc id="d">Turning ideas into working software, with AI agents as my team. Israel, Software Engineering, Braude College.</desc>
+<defs><pattern id="g" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#d1d9e0"/></pattern>
+<linearGradient id="f" x1="0" x2="1"><stop offset="0.45" stop-color="#ffffff" stop-opacity="1"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="829" height="235" rx="14" fill="#ffffff" stroke="#d1d9e0"/>
+<rect x="1" y="1" width="828" height="234" rx="14" fill="url(#g)"/>
+<rect x="1" y="1" width="828" height="234" rx="14" fill="url(#f)"/>
+<text x="40" y="58" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#59636e"><tspan fill="#C15F3C">~/harelzx</tspan> $ claude</text>
+<text x="38" y="112" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="46" font-weight="700" letter-spacing="-1" fill="#1f2328">Harel Aronovich</text>
+<text x="40" y="150" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#59636e">Turning ideas into working software, with AI agents as my team.</text>
+<rect x="40" y="172" width="36" height="3" rx="1.5" fill="#C15F3C"/>
+<text x="40" y="204" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#59636e">Israel  ·  Software Engineering, Braude College</text>
+</svg>
