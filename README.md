@@ -28,7 +28,7 @@ I'm not here to prompt and hope. I treat everything around the model as part of 
 
 **Your AirPod is now a presentation clicker.** Hold it, flick your wrist, and the slide changes. A macOS menu bar app that reads the AirPods motion sensors and presses the arrow key for you.
 
-Built in 15 minutes on the morning of a talk, then tuned on 159 logged flicks.
+Built in 15 minutes before a lesson, then tuned on 159 logged flicks.
 
 `Swift` `CoreMotion` `macOS`
 
@@ -36,24 +36,6 @@ Built in 15 minutes on the morning of a talk, then tuned on 159 logged flicks.
 <td width="45%" valign="middle" align="center">
 
 <a href="https://github.com/Harelzx/airclicker"><img src="https://raw.githubusercontent.com/Harelzx/airclicker/main/docs/demo.gif" width="280" alt="Flicking an AirPod changes the slide"></a>
-
-</td>
-</tr>
-<tr>
-<td width="55%" valign="top">
-
-### [Makom Lizkor](https://makomlizkor.org)
-
-**Remembering October 7, place by place.** A map of the memorials, benches, lookouts and groves built in memory of those murdered and fallen on October 7, and of the communities in the south that are growing back.
-
-A live site with moderated public submissions, rate limiting, end-to-end tests and on-call alerts.
-
-`TypeScript` `React` `Cloudflare Workers`
-
-</td>
-<td width="45%" valign="middle" align="center">
-
-<a href="https://makomlizkor.org"><img src="https://makomlizkor.org/og.png" width="320" alt="Makom Lizkor"></a>
 
 </td>
 </tr>
